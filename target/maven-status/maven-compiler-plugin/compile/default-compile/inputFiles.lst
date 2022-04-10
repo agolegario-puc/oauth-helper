@@ -1,0 +1,9 @@
+/Users/agolegario/repositories/oauth-helper/src/main/java/com/pucsp/oauthhelper/domain/CreateResponse.java
+/Users/agolegario/repositories/oauth-helper/src/main/java/com/pucsp/oauthhelper/domain/entities/Principal.java
+/Users/agolegario/repositories/oauth-helper/src/main/java/com/pucsp/oauthhelper/domain/Chanell.java
+/Users/agolegario/repositories/oauth-helper/src/main/java/com/pucsp/oauthhelper/domain/CreateRequest.java
+/Users/agolegario/repositories/oauth-helper/src/main/java/com/pucsp/oauthhelper/controllers/OtpPasswordController.java
+/Users/agolegario/repositories/oauth-helper/src/main/java/com/pucsp/oauthhelper/domain/VerifyRequest.java
+/Users/agolegario/repositories/oauth-helper/src/main/java/com/pucsp/oauthhelper/config/CustomConfig.java
+/Users/agolegario/repositories/oauth-helper/src/main/java/com/pucsp/oauthhelper/OauthHelperApplication.java
+/Users/agolegario/repositories/oauth-helper/src/main/java/com/pucsp/oauthhelper/domain/services/PrincipalRepository.java
